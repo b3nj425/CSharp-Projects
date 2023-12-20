@@ -1,0 +1,79 @@
+
+	.bordered {
+		background-color: whitesmoke;
+		border-radius: 20px;
+		box-shadow: 0 10px #ccc;
+		-webkit-box-shadow: 0 10px #ccc;
+		-moz-box-shadow: 0 10px #ccc;
+		-moz-border-radius: 20px;
+		-webkit-border-radius: 20px;
+		margin-top: 10px;
+		margin-bottom: 10px;
+		margin-left: 10px;
+		margin-right: 10px;
+	}
+	.bordered:hover {
+		transform: scale(1.2);
+		animation-duration: 4s;
+	}
+.animacionAgrandar{
+	overflow:hidden;
+}
+
+.displaytabla {
+	display: inline-block;
+}
+
+.posiciondelboton {
+	position: fixed;
+	bottom: 10%;
+}
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+body {
+	background: #fff;
+}
+
+.contenedor {
+	width: 90%;
+	max-width: 1000px;
+	margin: 20px auto;
+}
+
+	.contenedor article {
+		line-height: 28px;
+	}
+
+		.contenedor article h1 {
+			font-size: 30px;
+			text-align: left;
+			padding: 50px 0;
+		}
+
+		.contenedor article p {
+			margin-bottom: 20px;
+		}
+
+		.contenedor article .btn-abrir-popup {
+			padding: 0 20px;
+			margin-bottom: 20px;
+			height: 40px;
+			line-height: 40px;
+			border: none;
+			color: #fff;
+			background: #5E7DE3;
+			border-radius: 3px;
+			font-size: 16px;
+			cursor: pointer;
+			transition: .3s ease all;
+			cursor: pointer;
+		}
+
+			.contenedor article .btn-abrir-popup:hover {
+				background: rgba(94,125,227, .9);
+			}
+

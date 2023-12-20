@@ -1,0 +1,931 @@
+C:\Users\Benjamin\Desktop\BingoDefinitivo\BingoDefinitivo\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Benjamin\Desktop\BingoDefinitivo\BingoDefinitivo\bin\Debug\net6.0\appsettings.json
+C:\Users\Benjamin\Desktop\BingoDefinitivo\BingoDefinitivo\bin\Debug\net6.0\BingoDefinitivo.staticwebassets.runtime.json
+C:\Users\Benjamin\Desktop\BingoDefinitivo\BingoDefinitivo\bin\Debug\net6.0\BingoDefinitivo.exe
+C:\Users\Benjamin\Desktop\BingoDefinitivo\BingoDefinitivo\bin\Debug\net6.0\BingoDefinitivo.deps.json
+C:\Users\Benjamin\Desktop\BingoDefinitivo\BingoDefinitivo\bin\Debug\net6.0\BingoDefinitivo.runtimeconfig.json
+C:\Users\Benjamin\Desktop\BingoDefinitivo\BingoDefinitivo\bin\Debug\net6.0\BingoDefinitivo.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivo\BingoDefinitivo\bin\Debug\net6.0\BingoDefinitivo.pdb
+C:\Users\Benjamin\Desktop\BingoDefinitivo\BingoDefinitivo\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivo\BingoDefinitivo\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivo\BingoDefinitivo\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivo\BingoDefinitivo\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivo\BingoDefinitivo\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivo\BingoDefinitivo\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivo\BingoDefinitivo\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivo\BingoDefinitivo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivo\BingoDefinitivo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivo\BingoDefinitivo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivo\BingoDefinitivo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivo\BingoDefinitivo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivo\BingoDefinitivo\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivo\BingoDefinitivo\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivo\BingoDefinitivo\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivo\BingoDefinitivo\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivo\BingoDefinitivo\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivo\BingoDefinitivo\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivo\BingoDefinitivo\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivo\BingoDefinitivo\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivo\BingoDefinitivo\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivo\BingoDefinitivo\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivo\BingoDefinitivo\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivo\BingoDefinitivo\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivo\BingoDefinitivo\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivo\BingoDefinitivo\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivo\BingoDefinitivo\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivo\BingoDefinitivo\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivo\BingoDefinitivo\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivo\BingoDefinitivo\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivo\BingoDefinitivo\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivo\BingoDefinitivo\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivo\BingoDefinitivo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivo\BingoDefinitivo\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivo\BingoDefinitivo\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivo\BingoDefinitivo\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivo\BingoDefinitivo\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivo\BingoDefinitivo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivo\BingoDefinitivo\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivo\BingoDefinitivo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivo\BingoDefinitivo\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivo\BingoDefinitivo\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivo\BingoDefinitivo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivo\BingoDefinitivo\obj\Debug\net6.0\BingoDefinitivo.csproj.AssemblyReference.cache
+C:\Users\Benjamin\Desktop\BingoDefinitivo\BingoDefinitivo\obj\Debug\net6.0\BingoDefinitivo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Benjamin\Desktop\BingoDefinitivo\BingoDefinitivo\obj\Debug\net6.0\BingoDefinitivo.AssemblyInfoInputs.cache
+C:\Users\Benjamin\Desktop\BingoDefinitivo\BingoDefinitivo\obj\Debug\net6.0\BingoDefinitivo.AssemblyInfo.cs
+C:\Users\Benjamin\Desktop\BingoDefinitivo\BingoDefinitivo\obj\Debug\net6.0\BingoDefinitivo.csproj.CoreCompileInputs.cache
+C:\Users\Benjamin\Desktop\BingoDefinitivo\BingoDefinitivo\obj\Debug\net6.0\BingoDefinitivo.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Benjamin\Desktop\BingoDefinitivo\BingoDefinitivo\obj\Debug\net6.0\BingoDefinitivo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Benjamin\Desktop\BingoDefinitivo\BingoDefinitivo\obj\Debug\net6.0\BingoDefinitivo.RazorAssemblyInfo.cache
+C:\Users\Benjamin\Desktop\BingoDefinitivo\BingoDefinitivo\obj\Debug\net6.0\BingoDefinitivo.RazorAssemblyInfo.cs
+C:\Users\Benjamin\Desktop\BingoDefinitivo\BingoDefinitivo\obj\Debug\net6.0\staticwebassets\msbuild.BingoDefinitivo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Benjamin\Desktop\BingoDefinitivo\BingoDefinitivo\obj\Debug\net6.0\staticwebassets\msbuild.build.BingoDefinitivo.props
+C:\Users\Benjamin\Desktop\BingoDefinitivo\BingoDefinitivo\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BingoDefinitivo.props
+C:\Users\Benjamin\Desktop\BingoDefinitivo\BingoDefinitivo\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BingoDefinitivo.props
+C:\Users\Benjamin\Desktop\BingoDefinitivo\BingoDefinitivo\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Benjamin\Desktop\BingoDefinitivo\BingoDefinitivo\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Benjamin\Desktop\BingoDefinitivo\BingoDefinitivo\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Benjamin\Desktop\BingoDefinitivo\BingoDefinitivo\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Benjamin\Desktop\BingoDefinitivo\BingoDefinitivo\obj\Debug\net6.0\scopedcss\bundle\BingoDefinitivo.styles.css
+C:\Users\Benjamin\Desktop\BingoDefinitivo\BingoDefinitivo\obj\Debug\net6.0\scopedcss\projectbundle\BingoDefinitivo.bundle.scp.css
+C:\Users\Benjamin\Desktop\BingoDefinitivo\BingoDefinitivo\obj\Debug\net6.0\BingoDefinitivo.csproj.CopyComplete
+C:\Users\Benjamin\Desktop\BingoDefinitivo\BingoDefinitivo\obj\Debug\net6.0\BingoDefinitivo.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivo\BingoDefinitivo\obj\Debug\net6.0\refint\BingoDefinitivo.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivo\BingoDefinitivo\obj\Debug\net6.0\BingoDefinitivo.pdb
+C:\Users\Benjamin\Desktop\BingoDefinitivo\BingoDefinitivo\obj\Debug\net6.0\BingoDefinitivo.genruntimeconfig.cache
+C:\Users\Benjamin\Desktop\BingoDefinitivo\BingoDefinitivo\obj\Debug\net6.0\ref\BingoDefinitivo.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivo\BingoDefinitivo\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivo\BingoDefinitivo\bin\Debug\net6.0\appsettings.json
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivo\BingoDefinitivo\bin\Debug\net6.0\BingoDefinitivo.staticwebassets.runtime.json
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivo\BingoDefinitivo\bin\Debug\net6.0\BingoDefinitivo.exe
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivo\BingoDefinitivo\bin\Debug\net6.0\BingoDefinitivo.deps.json
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivo\BingoDefinitivo\bin\Debug\net6.0\BingoDefinitivo.runtimeconfig.json
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivo\BingoDefinitivo\bin\Debug\net6.0\BingoDefinitivo.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivo\BingoDefinitivo\bin\Debug\net6.0\BingoDefinitivo.pdb
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivo\BingoDefinitivo\bin\Debug\net6.0\Humanizer.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivo\BingoDefinitivo\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivo\BingoDefinitivo\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivo\BingoDefinitivo\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivo\BingoDefinitivo\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivo\BingoDefinitivo\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivo\BingoDefinitivo\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivo\BingoDefinitivo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivo\BingoDefinitivo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivo\BingoDefinitivo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivo\BingoDefinitivo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivo\BingoDefinitivo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivo\BingoDefinitivo\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivo\BingoDefinitivo\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivo\BingoDefinitivo\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivo\BingoDefinitivo\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivo\BingoDefinitivo\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivo\BingoDefinitivo\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivo\BingoDefinitivo\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivo\BingoDefinitivo\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivo\BingoDefinitivo\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivo\BingoDefinitivo\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivo\BingoDefinitivo\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivo\BingoDefinitivo\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivo\BingoDefinitivo\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivo\BingoDefinitivo\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivo\BingoDefinitivo\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivo\BingoDefinitivo\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivo\BingoDefinitivo\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivo\BingoDefinitivo\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivo\BingoDefinitivo\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivo\BingoDefinitivo\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivo\BingoDefinitivo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivo\BingoDefinitivo\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivo\BingoDefinitivo\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivo\BingoDefinitivo\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivo\BingoDefinitivo\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivo\BingoDefinitivo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivo\BingoDefinitivo\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivo\BingoDefinitivo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivo\BingoDefinitivo\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivo\BingoDefinitivo\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivo\BingoDefinitivo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivo\BingoDefinitivo\obj\Debug\net6.0\BingoDefinitivo.csproj.AssemblyReference.cache
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivo\BingoDefinitivo\obj\Debug\net6.0\BingoDefinitivo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivo\BingoDefinitivo\obj\Debug\net6.0\BingoDefinitivo.AssemblyInfoInputs.cache
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivo\BingoDefinitivo\obj\Debug\net6.0\BingoDefinitivo.AssemblyInfo.cs
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivo\BingoDefinitivo\obj\Debug\net6.0\BingoDefinitivo.csproj.CoreCompileInputs.cache
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivo\BingoDefinitivo\obj\Debug\net6.0\BingoDefinitivo.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivo\BingoDefinitivo\obj\Debug\net6.0\BingoDefinitivo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivo\BingoDefinitivo\obj\Debug\net6.0\BingoDefinitivo.RazorAssemblyInfo.cache
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivo\BingoDefinitivo\obj\Debug\net6.0\BingoDefinitivo.RazorAssemblyInfo.cs
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivo\BingoDefinitivo\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivo\BingoDefinitivo\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivo\BingoDefinitivo\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivo\BingoDefinitivo\obj\Debug\net6.0\scopedcss\bundle\BingoDefinitivo.styles.css
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivo\BingoDefinitivo\obj\Debug\net6.0\scopedcss\projectbundle\BingoDefinitivo.bundle.scp.css
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivo\BingoDefinitivo\obj\Debug\net6.0\BingoDefinitivo.csproj.CopyComplete
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivo\BingoDefinitivo\obj\Debug\net6.0\BingoDefinitivo.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivo\BingoDefinitivo\obj\Debug\net6.0\refint\BingoDefinitivo.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivo\BingoDefinitivo\obj\Debug\net6.0\BingoDefinitivo.pdb
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivo\BingoDefinitivo\obj\Debug\net6.0\BingoDefinitivo.genruntimeconfig.cache
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivo\BingoDefinitivo\obj\Debug\net6.0\ref\BingoDefinitivo.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivo\BingoDefinitivo\bin\Debug\net6.0\Microsoft.AspNet.OutputCache.OutputCacheModuleAsync.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivo\BingoDefinitivo\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivo\BingoDefinitivo\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivo\BingoDefinitivo\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivo\BingoDefinitivo\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivo\BingoDefinitivo\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivo\BingoDefinitivo\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivo\BingoDefinitivo\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivo\BingoDefinitivo\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivo\BingoDefinitivo\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivo\BingoDefinitivo\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivo\BingoDefinitivo\bin\Debug\net6.0\WebEssentials.AspNetCore.OutputCaching.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2\BingoDefinitivo\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Benjamin\Desktop\BingoDefinitivov2\BingoDefinitivo\bin\Debug\net6.0\appsettings.json
+C:\Users\Benjamin\Desktop\BingoDefinitivov2\BingoDefinitivo\bin\Debug\net6.0\BingoDefinitivo.staticwebassets.runtime.json
+C:\Users\Benjamin\Desktop\BingoDefinitivov2\BingoDefinitivo\bin\Debug\net6.0\BingoDefinitivo.exe
+C:\Users\Benjamin\Desktop\BingoDefinitivov2\BingoDefinitivo\bin\Debug\net6.0\BingoDefinitivo.deps.json
+C:\Users\Benjamin\Desktop\BingoDefinitivov2\BingoDefinitivo\bin\Debug\net6.0\BingoDefinitivo.runtimeconfig.json
+C:\Users\Benjamin\Desktop\BingoDefinitivov2\BingoDefinitivo\bin\Debug\net6.0\BingoDefinitivo.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2\BingoDefinitivo\bin\Debug\net6.0\BingoDefinitivo.pdb
+C:\Users\Benjamin\Desktop\BingoDefinitivov2\BingoDefinitivo\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2\BingoDefinitivo\bin\Debug\net6.0\Microsoft.AspNet.OutputCache.OutputCacheModuleAsync.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2\BingoDefinitivo\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2\BingoDefinitivo\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2\BingoDefinitivo\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2\BingoDefinitivo\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2\BingoDefinitivo\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2\BingoDefinitivo\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2\BingoDefinitivo\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2\BingoDefinitivo\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2\BingoDefinitivo\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2\BingoDefinitivo\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2\BingoDefinitivo\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2\BingoDefinitivo\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2\BingoDefinitivo\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2\BingoDefinitivo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2\BingoDefinitivo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2\BingoDefinitivo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2\BingoDefinitivo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2\BingoDefinitivo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2\BingoDefinitivo\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2\BingoDefinitivo\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2\BingoDefinitivo\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2\BingoDefinitivo\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2\BingoDefinitivo\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2\BingoDefinitivo\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2\BingoDefinitivo\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2\BingoDefinitivo\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2\BingoDefinitivo\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2\BingoDefinitivo\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2\BingoDefinitivo\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2\BingoDefinitivo\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2\BingoDefinitivo\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2\BingoDefinitivo\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2\BingoDefinitivo\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2\BingoDefinitivo\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2\BingoDefinitivo\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2\BingoDefinitivo\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2\BingoDefinitivo\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2\BingoDefinitivo\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2\BingoDefinitivo\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2\BingoDefinitivo\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2\BingoDefinitivo\bin\Debug\net6.0\WebEssentials.AspNetCore.OutputCaching.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2\BingoDefinitivo\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2\BingoDefinitivo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2\BingoDefinitivo\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2\BingoDefinitivo\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2\BingoDefinitivo\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2\BingoDefinitivo\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2\BingoDefinitivo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2\BingoDefinitivo\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2\BingoDefinitivo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2\BingoDefinitivo\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2\BingoDefinitivo\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2\BingoDefinitivo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2\BingoDefinitivo\obj\Debug\net6.0\BingoDefinitivo.csproj.AssemblyReference.cache
+C:\Users\Benjamin\Desktop\BingoDefinitivov2\BingoDefinitivo\obj\Debug\net6.0\BingoDefinitivo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Benjamin\Desktop\BingoDefinitivov2\BingoDefinitivo\obj\Debug\net6.0\BingoDefinitivo.AssemblyInfoInputs.cache
+C:\Users\Benjamin\Desktop\BingoDefinitivov2\BingoDefinitivo\obj\Debug\net6.0\BingoDefinitivo.AssemblyInfo.cs
+C:\Users\Benjamin\Desktop\BingoDefinitivov2\BingoDefinitivo\obj\Debug\net6.0\BingoDefinitivo.csproj.CoreCompileInputs.cache
+C:\Users\Benjamin\Desktop\BingoDefinitivov2\BingoDefinitivo\obj\Debug\net6.0\BingoDefinitivo.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Benjamin\Desktop\BingoDefinitivov2\BingoDefinitivo\obj\Debug\net6.0\BingoDefinitivo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Benjamin\Desktop\BingoDefinitivov2\BingoDefinitivo\obj\Debug\net6.0\BingoDefinitivo.RazorAssemblyInfo.cache
+C:\Users\Benjamin\Desktop\BingoDefinitivov2\BingoDefinitivo\obj\Debug\net6.0\BingoDefinitivo.RazorAssemblyInfo.cs
+C:\Users\Benjamin\Desktop\BingoDefinitivov2\BingoDefinitivo\obj\Debug\net6.0\staticwebassets\msbuild.BingoDefinitivo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Benjamin\Desktop\BingoDefinitivov2\BingoDefinitivo\obj\Debug\net6.0\staticwebassets\msbuild.build.BingoDefinitivo.props
+C:\Users\Benjamin\Desktop\BingoDefinitivov2\BingoDefinitivo\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BingoDefinitivo.props
+C:\Users\Benjamin\Desktop\BingoDefinitivov2\BingoDefinitivo\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BingoDefinitivo.props
+C:\Users\Benjamin\Desktop\BingoDefinitivov2\BingoDefinitivo\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Benjamin\Desktop\BingoDefinitivov2\BingoDefinitivo\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Benjamin\Desktop\BingoDefinitivov2\BingoDefinitivo\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Benjamin\Desktop\BingoDefinitivov2\BingoDefinitivo\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Benjamin\Desktop\BingoDefinitivov2\BingoDefinitivo\obj\Debug\net6.0\scopedcss\bundle\BingoDefinitivo.styles.css
+C:\Users\Benjamin\Desktop\BingoDefinitivov2\BingoDefinitivo\obj\Debug\net6.0\scopedcss\projectbundle\BingoDefinitivo.bundle.scp.css
+C:\Users\Benjamin\Desktop\BingoDefinitivov2\BingoDefinitivo\obj\Debug\net6.0\BingoDefinitivo.csproj.CopyComplete
+C:\Users\Benjamin\Desktop\BingoDefinitivov2\BingoDefinitivo\obj\Debug\net6.0\BingoDefinitivo.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2\BingoDefinitivo\obj\Debug\net6.0\refint\BingoDefinitivo.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2\BingoDefinitivo\obj\Debug\net6.0\BingoDefinitivo.pdb
+C:\Users\Benjamin\Desktop\BingoDefinitivov2\BingoDefinitivo\obj\Debug\net6.0\BingoDefinitivo.genruntimeconfig.cache
+C:\Users\Benjamin\Desktop\BingoDefinitivov2\BingoDefinitivo\obj\Debug\net6.0\ref\BingoDefinitivo.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2\BingoDefinitivo\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2\BingoDefinitivo\bin\Debug\net6.0\appsettings.json
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2\BingoDefinitivo\bin\Debug\net6.0\BingoDefinitivo.staticwebassets.runtime.json
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2\BingoDefinitivo\bin\Debug\net6.0\BingoDefinitivo.exe
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2\BingoDefinitivo\bin\Debug\net6.0\BingoDefinitivo.deps.json
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2\BingoDefinitivo\bin\Debug\net6.0\BingoDefinitivo.runtimeconfig.json
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2\BingoDefinitivo\bin\Debug\net6.0\BingoDefinitivo.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2\BingoDefinitivo\bin\Debug\net6.0\BingoDefinitivo.pdb
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2\BingoDefinitivo\bin\Debug\net6.0\Humanizer.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2\BingoDefinitivo\bin\Debug\net6.0\Microsoft.AspNet.OutputCache.OutputCacheModuleAsync.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2\BingoDefinitivo\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2\BingoDefinitivo\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2\BingoDefinitivo\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2\BingoDefinitivo\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2\BingoDefinitivo\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2\BingoDefinitivo\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2\BingoDefinitivo\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2\BingoDefinitivo\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2\BingoDefinitivo\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2\BingoDefinitivo\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2\BingoDefinitivo\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2\BingoDefinitivo\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2\BingoDefinitivo\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2\BingoDefinitivo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2\BingoDefinitivo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2\BingoDefinitivo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2\BingoDefinitivo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2\BingoDefinitivo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2\BingoDefinitivo\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2\BingoDefinitivo\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2\BingoDefinitivo\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2\BingoDefinitivo\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2\BingoDefinitivo\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2\BingoDefinitivo\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2\BingoDefinitivo\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2\BingoDefinitivo\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2\BingoDefinitivo\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2\BingoDefinitivo\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2\BingoDefinitivo\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2\BingoDefinitivo\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2\BingoDefinitivo\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2\BingoDefinitivo\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2\BingoDefinitivo\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2\BingoDefinitivo\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2\BingoDefinitivo\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2\BingoDefinitivo\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2\BingoDefinitivo\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2\BingoDefinitivo\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2\BingoDefinitivo\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2\BingoDefinitivo\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2\BingoDefinitivo\bin\Debug\net6.0\WebEssentials.AspNetCore.OutputCaching.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2\BingoDefinitivo\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2\BingoDefinitivo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2\BingoDefinitivo\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2\BingoDefinitivo\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2\BingoDefinitivo\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2\BingoDefinitivo\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2\BingoDefinitivo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2\BingoDefinitivo\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2\BingoDefinitivo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2\BingoDefinitivo\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2\BingoDefinitivo\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2\BingoDefinitivo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2\BingoDefinitivo\obj\Debug\net6.0\BingoDefinitivo.csproj.AssemblyReference.cache
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2\BingoDefinitivo\obj\Debug\net6.0\BingoDefinitivo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2\BingoDefinitivo\obj\Debug\net6.0\BingoDefinitivo.AssemblyInfoInputs.cache
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2\BingoDefinitivo\obj\Debug\net6.0\BingoDefinitivo.AssemblyInfo.cs
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2\BingoDefinitivo\obj\Debug\net6.0\BingoDefinitivo.csproj.CoreCompileInputs.cache
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2\BingoDefinitivo\obj\Debug\net6.0\BingoDefinitivo.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2\BingoDefinitivo\obj\Debug\net6.0\BingoDefinitivo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2\BingoDefinitivo\obj\Debug\net6.0\BingoDefinitivo.RazorAssemblyInfo.cache
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2\BingoDefinitivo\obj\Debug\net6.0\BingoDefinitivo.RazorAssemblyInfo.cs
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2\BingoDefinitivo\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2\BingoDefinitivo\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2\BingoDefinitivo\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2\BingoDefinitivo\obj\Debug\net6.0\scopedcss\bundle\BingoDefinitivo.styles.css
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2\BingoDefinitivo\obj\Debug\net6.0\scopedcss\projectbundle\BingoDefinitivo.bundle.scp.css
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2\BingoDefinitivo\obj\Debug\net6.0\BingoDefinitivo.csproj.CopyComplete
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2\BingoDefinitivo\obj\Debug\net6.0\BingoDefinitivo.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2\BingoDefinitivo\obj\Debug\net6.0\refint\BingoDefinitivo.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2\BingoDefinitivo\obj\Debug\net6.0\BingoDefinitivo.pdb
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2\BingoDefinitivo\obj\Debug\net6.0\BingoDefinitivo.genruntimeconfig.cache
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2\BingoDefinitivo\obj\Debug\net6.0\ref\BingoDefinitivo.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.3\BingoDefinitivo\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.3\BingoDefinitivo\bin\Debug\net6.0\appsettings.json
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.3\BingoDefinitivo\bin\Debug\net6.0\BingoDefinitivo.staticwebassets.runtime.json
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.3\BingoDefinitivo\bin\Debug\net6.0\BingoDefinitivo.exe
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.3\BingoDefinitivo\bin\Debug\net6.0\BingoDefinitivo.deps.json
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.3\BingoDefinitivo\bin\Debug\net6.0\BingoDefinitivo.runtimeconfig.json
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.3\BingoDefinitivo\bin\Debug\net6.0\BingoDefinitivo.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.3\BingoDefinitivo\bin\Debug\net6.0\BingoDefinitivo.pdb
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.3\BingoDefinitivo\bin\Debug\net6.0\Humanizer.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.3\BingoDefinitivo\bin\Debug\net6.0\Microsoft.AspNet.OutputCache.OutputCacheModuleAsync.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.3\BingoDefinitivo\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.3\BingoDefinitivo\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.3\BingoDefinitivo\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.3\BingoDefinitivo\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.3\BingoDefinitivo\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.3\BingoDefinitivo\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.3\BingoDefinitivo\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.3\BingoDefinitivo\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.3\BingoDefinitivo\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.3\BingoDefinitivo\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.3\BingoDefinitivo\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.3\BingoDefinitivo\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.3\BingoDefinitivo\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.3\BingoDefinitivo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.3\BingoDefinitivo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.3\BingoDefinitivo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.3\BingoDefinitivo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.3\BingoDefinitivo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.3\BingoDefinitivo\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.3\BingoDefinitivo\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.3\BingoDefinitivo\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.3\BingoDefinitivo\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.3\BingoDefinitivo\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.3\BingoDefinitivo\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.3\BingoDefinitivo\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.3\BingoDefinitivo\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.3\BingoDefinitivo\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.3\BingoDefinitivo\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.3\BingoDefinitivo\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.3\BingoDefinitivo\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.3\BingoDefinitivo\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.3\BingoDefinitivo\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.3\BingoDefinitivo\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.3\BingoDefinitivo\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.3\BingoDefinitivo\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.3\BingoDefinitivo\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.3\BingoDefinitivo\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.3\BingoDefinitivo\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.3\BingoDefinitivo\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.3\BingoDefinitivo\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.3\BingoDefinitivo\bin\Debug\net6.0\WebEssentials.AspNetCore.OutputCaching.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.3\BingoDefinitivo\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.3\BingoDefinitivo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.3\BingoDefinitivo\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.3\BingoDefinitivo\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.3\BingoDefinitivo\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.3\BingoDefinitivo\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.3\BingoDefinitivo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.3\BingoDefinitivo\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.3\BingoDefinitivo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.3\BingoDefinitivo\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.3\BingoDefinitivo\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.3\BingoDefinitivo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.3\BingoDefinitivo\obj\Debug\net6.0\BingoDefinitivo.csproj.AssemblyReference.cache
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.3\BingoDefinitivo\obj\Debug\net6.0\BingoDefinitivo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.3\BingoDefinitivo\obj\Debug\net6.0\BingoDefinitivo.AssemblyInfoInputs.cache
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.3\BingoDefinitivo\obj\Debug\net6.0\BingoDefinitivo.AssemblyInfo.cs
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.3\BingoDefinitivo\obj\Debug\net6.0\BingoDefinitivo.csproj.CoreCompileInputs.cache
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.3\BingoDefinitivo\obj\Debug\net6.0\BingoDefinitivo.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.3\BingoDefinitivo\obj\Debug\net6.0\BingoDefinitivo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.3\BingoDefinitivo\obj\Debug\net6.0\BingoDefinitivo.RazorAssemblyInfo.cache
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.3\BingoDefinitivo\obj\Debug\net6.0\BingoDefinitivo.RazorAssemblyInfo.cs
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.3\BingoDefinitivo\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.3\BingoDefinitivo\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.3\BingoDefinitivo\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.3\BingoDefinitivo\obj\Debug\net6.0\scopedcss\bundle\BingoDefinitivo.styles.css
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.3\BingoDefinitivo\obj\Debug\net6.0\scopedcss\projectbundle\BingoDefinitivo.bundle.scp.css
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.3\BingoDefinitivo\obj\Debug\net6.0\BingoDefinitivo.csproj.CopyComplete
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.3\BingoDefinitivo\obj\Debug\net6.0\BingoDefinitivo.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.3\BingoDefinitivo\obj\Debug\net6.0\refint\BingoDefinitivo.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.3\BingoDefinitivo\obj\Debug\net6.0\BingoDefinitivo.pdb
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.3\BingoDefinitivo\obj\Debug\net6.0\BingoDefinitivo.genruntimeconfig.cache
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.3\BingoDefinitivo\obj\Debug\net6.0\ref\BingoDefinitivo.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.4\BingoDefinitivo\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.4\BingoDefinitivo\bin\Debug\net6.0\appsettings.json
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.4\BingoDefinitivo\bin\Debug\net6.0\BingoDefinitivo.staticwebassets.runtime.json
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.4\BingoDefinitivo\bin\Debug\net6.0\BingoDefinitivo.exe
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.4\BingoDefinitivo\bin\Debug\net6.0\BingoDefinitivo.deps.json
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.4\BingoDefinitivo\bin\Debug\net6.0\BingoDefinitivo.runtimeconfig.json
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.4\BingoDefinitivo\bin\Debug\net6.0\BingoDefinitivo.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.4\BingoDefinitivo\bin\Debug\net6.0\BingoDefinitivo.pdb
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.4\BingoDefinitivo\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.4\BingoDefinitivo\bin\Debug\net6.0\Microsoft.AspNet.OutputCache.OutputCacheModuleAsync.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.4\BingoDefinitivo\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.4\BingoDefinitivo\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.4\BingoDefinitivo\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.4\BingoDefinitivo\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.4\BingoDefinitivo\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.4\BingoDefinitivo\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.4\BingoDefinitivo\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.4\BingoDefinitivo\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.4\BingoDefinitivo\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.4\BingoDefinitivo\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.4\BingoDefinitivo\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.4\BingoDefinitivo\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.4\BingoDefinitivo\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.4\BingoDefinitivo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.4\BingoDefinitivo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.4\BingoDefinitivo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.4\BingoDefinitivo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.4\BingoDefinitivo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.4\BingoDefinitivo\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.4\BingoDefinitivo\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.4\BingoDefinitivo\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.4\BingoDefinitivo\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.4\BingoDefinitivo\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.4\BingoDefinitivo\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.4\BingoDefinitivo\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.4\BingoDefinitivo\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.4\BingoDefinitivo\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.4\BingoDefinitivo\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.4\BingoDefinitivo\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.4\BingoDefinitivo\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.4\BingoDefinitivo\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.4\BingoDefinitivo\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.4\BingoDefinitivo\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.4\BingoDefinitivo\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.4\BingoDefinitivo\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.4\BingoDefinitivo\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.4\BingoDefinitivo\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.4\BingoDefinitivo\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.4\BingoDefinitivo\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.4\BingoDefinitivo\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.4\BingoDefinitivo\bin\Debug\net6.0\WebEssentials.AspNetCore.OutputCaching.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.4\BingoDefinitivo\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.4\BingoDefinitivo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.4\BingoDefinitivo\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.4\BingoDefinitivo\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.4\BingoDefinitivo\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.4\BingoDefinitivo\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.4\BingoDefinitivo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.4\BingoDefinitivo\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.4\BingoDefinitivo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.4\BingoDefinitivo\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.4\BingoDefinitivo\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.4\BingoDefinitivo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.4\BingoDefinitivo\obj\Debug\net6.0\BingoDefinitivo.csproj.AssemblyReference.cache
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.4\BingoDefinitivo\obj\Debug\net6.0\BingoDefinitivo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.4\BingoDefinitivo\obj\Debug\net6.0\BingoDefinitivo.AssemblyInfoInputs.cache
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.4\BingoDefinitivo\obj\Debug\net6.0\BingoDefinitivo.AssemblyInfo.cs
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.4\BingoDefinitivo\obj\Debug\net6.0\BingoDefinitivo.csproj.CoreCompileInputs.cache
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.4\BingoDefinitivo\obj\Debug\net6.0\BingoDefinitivo.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.4\BingoDefinitivo\obj\Debug\net6.0\BingoDefinitivo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.4\BingoDefinitivo\obj\Debug\net6.0\BingoDefinitivo.RazorAssemblyInfo.cache
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.4\BingoDefinitivo\obj\Debug\net6.0\BingoDefinitivo.RazorAssemblyInfo.cs
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.4\BingoDefinitivo\obj\Debug\net6.0\staticwebassets\msbuild.BingoDefinitivo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.4\BingoDefinitivo\obj\Debug\net6.0\staticwebassets\msbuild.build.BingoDefinitivo.props
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.4\BingoDefinitivo\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BingoDefinitivo.props
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.4\BingoDefinitivo\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BingoDefinitivo.props
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.4\BingoDefinitivo\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.4\BingoDefinitivo\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.4\BingoDefinitivo\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.4\BingoDefinitivo\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.4\BingoDefinitivo\obj\Debug\net6.0\scopedcss\bundle\BingoDefinitivo.styles.css
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.4\BingoDefinitivo\obj\Debug\net6.0\scopedcss\projectbundle\BingoDefinitivo.bundle.scp.css
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.4\BingoDefinitivo\obj\Debug\net6.0\BingoDefinitivo.csproj.CopyComplete
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.4\BingoDefinitivo\obj\Debug\net6.0\BingoDefinitivo.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.4\BingoDefinitivo\obj\Debug\net6.0\refint\BingoDefinitivo.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.4\BingoDefinitivo\obj\Debug\net6.0\BingoDefinitivo.pdb
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.4\BingoDefinitivo\obj\Debug\net6.0\BingoDefinitivo.genruntimeconfig.cache
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.4\BingoDefinitivo\obj\Debug\net6.0\ref\BingoDefinitivo.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.6\BingoDefinitivo\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.6\BingoDefinitivo\bin\Debug\net6.0\appsettings.json
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.6\BingoDefinitivo\bin\Debug\net6.0\BingoDefinitivo.staticwebassets.runtime.json
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.6\BingoDefinitivo\bin\Debug\net6.0\BingoDefinitivo.exe
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.6\BingoDefinitivo\bin\Debug\net6.0\BingoDefinitivo.deps.json
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.6\BingoDefinitivo\bin\Debug\net6.0\BingoDefinitivo.runtimeconfig.json
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.6\BingoDefinitivo\bin\Debug\net6.0\BingoDefinitivo.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.6\BingoDefinitivo\bin\Debug\net6.0\BingoDefinitivo.pdb
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.6\BingoDefinitivo\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.6\BingoDefinitivo\bin\Debug\net6.0\Microsoft.AspNet.OutputCache.OutputCacheModuleAsync.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.6\BingoDefinitivo\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.6\BingoDefinitivo\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.6\BingoDefinitivo\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.6\BingoDefinitivo\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.6\BingoDefinitivo\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.6\BingoDefinitivo\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.6\BingoDefinitivo\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.6\BingoDefinitivo\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.6\BingoDefinitivo\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.6\BingoDefinitivo\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.6\BingoDefinitivo\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.6\BingoDefinitivo\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.6\BingoDefinitivo\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.6\BingoDefinitivo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.6\BingoDefinitivo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.6\BingoDefinitivo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.6\BingoDefinitivo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.6\BingoDefinitivo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.6\BingoDefinitivo\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.6\BingoDefinitivo\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.6\BingoDefinitivo\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.6\BingoDefinitivo\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.6\BingoDefinitivo\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.6\BingoDefinitivo\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.6\BingoDefinitivo\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.6\BingoDefinitivo\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.6\BingoDefinitivo\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.6\BingoDefinitivo\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.6\BingoDefinitivo\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.6\BingoDefinitivo\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.6\BingoDefinitivo\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.6\BingoDefinitivo\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.6\BingoDefinitivo\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.6\BingoDefinitivo\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.6\BingoDefinitivo\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.6\BingoDefinitivo\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.6\BingoDefinitivo\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.6\BingoDefinitivo\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.6\BingoDefinitivo\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.6\BingoDefinitivo\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.6\BingoDefinitivo\bin\Debug\net6.0\WebEssentials.AspNetCore.OutputCaching.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.6\BingoDefinitivo\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.6\BingoDefinitivo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.6\BingoDefinitivo\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.6\BingoDefinitivo\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.6\BingoDefinitivo\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.6\BingoDefinitivo\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.6\BingoDefinitivo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.6\BingoDefinitivo\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.6\BingoDefinitivo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.6\BingoDefinitivo\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.6\BingoDefinitivo\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.6\BingoDefinitivo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.6\BingoDefinitivo\obj\Debug\net6.0\BingoDefinitivo.csproj.AssemblyReference.cache
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.6\BingoDefinitivo\obj\Debug\net6.0\BingoDefinitivo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.6\BingoDefinitivo\obj\Debug\net6.0\BingoDefinitivo.AssemblyInfoInputs.cache
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.6\BingoDefinitivo\obj\Debug\net6.0\BingoDefinitivo.AssemblyInfo.cs
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.6\BingoDefinitivo\obj\Debug\net6.0\BingoDefinitivo.csproj.CoreCompileInputs.cache
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.6\BingoDefinitivo\obj\Debug\net6.0\BingoDefinitivo.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.6\BingoDefinitivo\obj\Debug\net6.0\BingoDefinitivo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.6\BingoDefinitivo\obj\Debug\net6.0\BingoDefinitivo.RazorAssemblyInfo.cache
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.6\BingoDefinitivo\obj\Debug\net6.0\BingoDefinitivo.RazorAssemblyInfo.cs
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.6\BingoDefinitivo\obj\Debug\net6.0\staticwebassets\msbuild.BingoDefinitivo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.6\BingoDefinitivo\obj\Debug\net6.0\staticwebassets\msbuild.build.BingoDefinitivo.props
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.6\BingoDefinitivo\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BingoDefinitivo.props
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.6\BingoDefinitivo\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BingoDefinitivo.props
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.6\BingoDefinitivo\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.6\BingoDefinitivo\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.6\BingoDefinitivo\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.6\BingoDefinitivo\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.6\BingoDefinitivo\obj\Debug\net6.0\scopedcss\bundle\BingoDefinitivo.styles.css
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.6\BingoDefinitivo\obj\Debug\net6.0\scopedcss\projectbundle\BingoDefinitivo.bundle.scp.css
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.6\BingoDefinitivo\obj\Debug\net6.0\BingoDefinitivo.csproj.CopyComplete
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.6\BingoDefinitivo\obj\Debug\net6.0\BingoDefinitivo.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.6\BingoDefinitivo\obj\Debug\net6.0\refint\BingoDefinitivo.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.6\BingoDefinitivo\obj\Debug\net6.0\BingoDefinitivo.pdb
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.6\BingoDefinitivo\obj\Debug\net6.0\BingoDefinitivo.genruntimeconfig.cache
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.6\BingoDefinitivo\obj\Debug\net6.0\ref\BingoDefinitivo.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.6\BingoDefinitivo\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.6\BingoDefinitivo\bin\Debug\net6.0\appsettings.json
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.6\BingoDefinitivo\bin\Debug\net6.0\BingoDefinitivo.staticwebassets.runtime.json
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.6\BingoDefinitivo\bin\Debug\net6.0\BingoDefinitivo.exe
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.6\BingoDefinitivo\bin\Debug\net6.0\BingoDefinitivo.deps.json
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.6\BingoDefinitivo\bin\Debug\net6.0\BingoDefinitivo.runtimeconfig.json
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.6\BingoDefinitivo\bin\Debug\net6.0\BingoDefinitivo.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.6\BingoDefinitivo\bin\Debug\net6.0\BingoDefinitivo.pdb
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.6\BingoDefinitivo\bin\Debug\net6.0\Humanizer.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.6\BingoDefinitivo\bin\Debug\net6.0\Microsoft.AspNet.OutputCache.OutputCacheModuleAsync.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.6\BingoDefinitivo\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.6\BingoDefinitivo\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.6\BingoDefinitivo\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.6\BingoDefinitivo\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.6\BingoDefinitivo\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.6\BingoDefinitivo\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.6\BingoDefinitivo\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.6\BingoDefinitivo\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.6\BingoDefinitivo\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.6\BingoDefinitivo\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.6\BingoDefinitivo\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.6\BingoDefinitivo\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.6\BingoDefinitivo\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.6\BingoDefinitivo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.6\BingoDefinitivo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.6\BingoDefinitivo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.6\BingoDefinitivo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.6\BingoDefinitivo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.6\BingoDefinitivo\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.6\BingoDefinitivo\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.6\BingoDefinitivo\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.6\BingoDefinitivo\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.6\BingoDefinitivo\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.6\BingoDefinitivo\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.6\BingoDefinitivo\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.6\BingoDefinitivo\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.6\BingoDefinitivo\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.6\BingoDefinitivo\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.6\BingoDefinitivo\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.6\BingoDefinitivo\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.6\BingoDefinitivo\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.6\BingoDefinitivo\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.6\BingoDefinitivo\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.6\BingoDefinitivo\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.6\BingoDefinitivo\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.6\BingoDefinitivo\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.6\BingoDefinitivo\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.6\BingoDefinitivo\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.6\BingoDefinitivo\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.6\BingoDefinitivo\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.6\BingoDefinitivo\bin\Debug\net6.0\WebEssentials.AspNetCore.OutputCaching.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.6\BingoDefinitivo\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.6\BingoDefinitivo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.6\BingoDefinitivo\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.6\BingoDefinitivo\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.6\BingoDefinitivo\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.6\BingoDefinitivo\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.6\BingoDefinitivo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.6\BingoDefinitivo\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.6\BingoDefinitivo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.6\BingoDefinitivo\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.6\BingoDefinitivo\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.6\BingoDefinitivo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.6\BingoDefinitivo\obj\Debug\net6.0\BingoDefinitivo.csproj.AssemblyReference.cache
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.6\BingoDefinitivo\obj\Debug\net6.0\BingoDefinitivo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.6\BingoDefinitivo\obj\Debug\net6.0\BingoDefinitivo.AssemblyInfoInputs.cache
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.6\BingoDefinitivo\obj\Debug\net6.0\BingoDefinitivo.AssemblyInfo.cs
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.6\BingoDefinitivo\obj\Debug\net6.0\BingoDefinitivo.csproj.CoreCompileInputs.cache
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.6\BingoDefinitivo\obj\Debug\net6.0\BingoDefinitivo.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.6\BingoDefinitivo\obj\Debug\net6.0\BingoDefinitivo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.6\BingoDefinitivo\obj\Debug\net6.0\BingoDefinitivo.RazorAssemblyInfo.cache
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.6\BingoDefinitivo\obj\Debug\net6.0\BingoDefinitivo.RazorAssemblyInfo.cs
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.6\BingoDefinitivo\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.6\BingoDefinitivo\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.6\BingoDefinitivo\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.6\BingoDefinitivo\obj\Debug\net6.0\scopedcss\bundle\BingoDefinitivo.styles.css
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.6\BingoDefinitivo\obj\Debug\net6.0\scopedcss\projectbundle\BingoDefinitivo.bundle.scp.css
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.6\BingoDefinitivo\obj\Debug\net6.0\BingoDefinitivo.csproj.CopyComplete
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.6\BingoDefinitivo\obj\Debug\net6.0\BingoDefinitivo.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.6\BingoDefinitivo\obj\Debug\net6.0\refint\BingoDefinitivo.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.6\BingoDefinitivo\obj\Debug\net6.0\BingoDefinitivo.pdb
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.6\BingoDefinitivo\obj\Debug\net6.0\BingoDefinitivo.genruntimeconfig.cache
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.6\BingoDefinitivo\obj\Debug\net6.0\ref\BingoDefinitivo.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.7.5\BingoDefinitivo\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.7.5\BingoDefinitivo\bin\Debug\net6.0\appsettings.json
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.7.5\BingoDefinitivo\bin\Debug\net6.0\BingoDefinitivo.staticwebassets.runtime.json
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.7.5\BingoDefinitivo\bin\Debug\net6.0\BingoDefinitivo.exe
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.7.5\BingoDefinitivo\bin\Debug\net6.0\BingoDefinitivo.deps.json
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.7.5\BingoDefinitivo\bin\Debug\net6.0\BingoDefinitivo.runtimeconfig.json
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.7.5\BingoDefinitivo\bin\Debug\net6.0\BingoDefinitivo.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.7.5\BingoDefinitivo\bin\Debug\net6.0\BingoDefinitivo.pdb
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.7.5\BingoDefinitivo\bin\Debug\net6.0\Humanizer.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.7.5\BingoDefinitivo\bin\Debug\net6.0\Microsoft.AspNet.OutputCache.OutputCacheModuleAsync.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.7.5\BingoDefinitivo\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.7.5\BingoDefinitivo\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.7.5\BingoDefinitivo\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.7.5\BingoDefinitivo\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.7.5\BingoDefinitivo\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.7.5\BingoDefinitivo\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.7.5\BingoDefinitivo\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.7.5\BingoDefinitivo\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.7.5\BingoDefinitivo\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.7.5\BingoDefinitivo\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.7.5\BingoDefinitivo\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.7.5\BingoDefinitivo\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.7.5\BingoDefinitivo\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.7.5\BingoDefinitivo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.7.5\BingoDefinitivo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.7.5\BingoDefinitivo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.7.5\BingoDefinitivo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.7.5\BingoDefinitivo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.7.5\BingoDefinitivo\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.7.5\BingoDefinitivo\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.7.5\BingoDefinitivo\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.7.5\BingoDefinitivo\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.7.5\BingoDefinitivo\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.7.5\BingoDefinitivo\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.7.5\BingoDefinitivo\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.7.5\BingoDefinitivo\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.7.5\BingoDefinitivo\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.7.5\BingoDefinitivo\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.7.5\BingoDefinitivo\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.7.5\BingoDefinitivo\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.7.5\BingoDefinitivo\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.7.5\BingoDefinitivo\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.7.5\BingoDefinitivo\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.7.5\BingoDefinitivo\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.7.5\BingoDefinitivo\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.7.5\BingoDefinitivo\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.7.5\BingoDefinitivo\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.7.5\BingoDefinitivo\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.7.5\BingoDefinitivo\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.7.5\BingoDefinitivo\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.7.5\BingoDefinitivo\bin\Debug\net6.0\WebEssentials.AspNetCore.OutputCaching.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.7.5\BingoDefinitivo\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.7.5\BingoDefinitivo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.7.5\BingoDefinitivo\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.7.5\BingoDefinitivo\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.7.5\BingoDefinitivo\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.7.5\BingoDefinitivo\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.7.5\BingoDefinitivo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.7.5\BingoDefinitivo\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.7.5\BingoDefinitivo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.7.5\BingoDefinitivo\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.7.5\BingoDefinitivo\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.7.5\BingoDefinitivo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.7.5\BingoDefinitivo\obj\Debug\net6.0\BingoDefinitivo.csproj.AssemblyReference.cache
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.7.5\BingoDefinitivo\obj\Debug\net6.0\BingoDefinitivo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.7.5\BingoDefinitivo\obj\Debug\net6.0\BingoDefinitivo.AssemblyInfoInputs.cache
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.7.5\BingoDefinitivo\obj\Debug\net6.0\BingoDefinitivo.AssemblyInfo.cs
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.7.5\BingoDefinitivo\obj\Debug\net6.0\BingoDefinitivo.csproj.CoreCompileInputs.cache
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.7.5\BingoDefinitivo\obj\Debug\net6.0\BingoDefinitivo.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.7.5\BingoDefinitivo\obj\Debug\net6.0\BingoDefinitivo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.7.5\BingoDefinitivo\obj\Debug\net6.0\BingoDefinitivo.RazorAssemblyInfo.cache
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.7.5\BingoDefinitivo\obj\Debug\net6.0\BingoDefinitivo.RazorAssemblyInfo.cs
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.7.5\BingoDefinitivo\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.7.5\BingoDefinitivo\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.7.5\BingoDefinitivo\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.7.5\BingoDefinitivo\obj\Debug\net6.0\scopedcss\bundle\BingoDefinitivo.styles.css
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.7.5\BingoDefinitivo\obj\Debug\net6.0\scopedcss\projectbundle\BingoDefinitivo.bundle.scp.css
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.7.5\BingoDefinitivo\obj\Debug\net6.0\BingoDefinitivo.csproj.CopyComplete
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.7.5\BingoDefinitivo\obj\Debug\net6.0\BingoDefinitivo.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.7.5\BingoDefinitivo\obj\Debug\net6.0\refint\BingoDefinitivo.dll
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.7.5\BingoDefinitivo\obj\Debug\net6.0\BingoDefinitivo.pdb
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.7.5\BingoDefinitivo\obj\Debug\net6.0\BingoDefinitivo.genruntimeconfig.cache
+C:\Users\LUZIO\Desktop\SERIUS THINGS\BINGOWEB\BingoDefinitivov2.7.5\BingoDefinitivo\obj\Debug\net6.0\ref\BingoDefinitivo.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\bin\Debug\net6.0\appsettings.json
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\bin\Debug\net6.0\BingoDefinitivo.staticwebassets.runtime.json
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\bin\Debug\net6.0\BingoDefinitivo.exe
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\bin\Debug\net6.0\BingoDefinitivo.deps.json
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\bin\Debug\net6.0\BingoDefinitivo.runtimeconfig.json
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\bin\Debug\net6.0\BingoDefinitivo.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\bin\Debug\net6.0\BingoDefinitivo.pdb
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\bin\Debug\net6.0\Microsoft.AspNet.OutputCache.OutputCacheModuleAsync.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\bin\Debug\net6.0\WebEssentials.AspNetCore.OutputCaching.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\obj\Debug\net6.0\BingoDefinitivo.csproj.AssemblyReference.cache
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\obj\Debug\net6.0\BingoDefinitivo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\obj\Debug\net6.0\BingoDefinitivo.AssemblyInfoInputs.cache
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\obj\Debug\net6.0\BingoDefinitivo.AssemblyInfo.cs
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\obj\Debug\net6.0\BingoDefinitivo.csproj.CoreCompileInputs.cache
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\obj\Debug\net6.0\BingoDefinitivo.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\obj\Debug\net6.0\BingoDefinitivo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\obj\Debug\net6.0\BingoDefinitivo.RazorAssemblyInfo.cache
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\obj\Debug\net6.0\BingoDefinitivo.RazorAssemblyInfo.cs
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\obj\Debug\net6.0\staticwebassets\msbuild.BingoDefinitivo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\obj\Debug\net6.0\staticwebassets\msbuild.build.BingoDefinitivo.props
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BingoDefinitivo.props
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BingoDefinitivo.props
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\obj\Debug\net6.0\scopedcss\bundle\BingoDefinitivo.styles.css
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\obj\Debug\net6.0\scopedcss\projectbundle\BingoDefinitivo.bundle.scp.css
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\obj\Debug\net6.0\BingoDefinitivo.csproj.CopyComplete
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\obj\Debug\net6.0\BingoDefinitivo.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\obj\Debug\net6.0\refint\BingoDefinitivo.dll
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\obj\Debug\net6.0\BingoDefinitivo.pdb
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\obj\Debug\net6.0\BingoDefinitivo.genruntimeconfig.cache
+C:\Users\Benjamin\Desktop\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\obj\Debug\net6.0\ref\BingoDefinitivo.dll
+C:\Users\Benjamin\Desktop\Archivos para guardar en el formateo\Curso PoloTec\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Benjamin\Desktop\Archivos para guardar en el formateo\Curso PoloTec\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\bin\Debug\net6.0\appsettings.json
+C:\Users\Benjamin\Desktop\Archivos para guardar en el formateo\Curso PoloTec\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\bin\Debug\net6.0\BingoDefinitivo.staticwebassets.runtime.json
+C:\Users\Benjamin\Desktop\Archivos para guardar en el formateo\Curso PoloTec\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\bin\Debug\net6.0\BingoDefinitivo.exe
+C:\Users\Benjamin\Desktop\Archivos para guardar en el formateo\Curso PoloTec\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\bin\Debug\net6.0\BingoDefinitivo.deps.json
+C:\Users\Benjamin\Desktop\Archivos para guardar en el formateo\Curso PoloTec\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\bin\Debug\net6.0\BingoDefinitivo.runtimeconfig.json
+C:\Users\Benjamin\Desktop\Archivos para guardar en el formateo\Curso PoloTec\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\bin\Debug\net6.0\BingoDefinitivo.dll
+C:\Users\Benjamin\Desktop\Archivos para guardar en el formateo\Curso PoloTec\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\bin\Debug\net6.0\BingoDefinitivo.pdb
+C:\Users\Benjamin\Desktop\Archivos para guardar en el formateo\Curso PoloTec\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Benjamin\Desktop\Archivos para guardar en el formateo\Curso PoloTec\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\bin\Debug\net6.0\Microsoft.AspNet.OutputCache.OutputCacheModuleAsync.dll
+C:\Users\Benjamin\Desktop\Archivos para guardar en el formateo\Curso PoloTec\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Benjamin\Desktop\Archivos para guardar en el formateo\Curso PoloTec\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Benjamin\Desktop\Archivos para guardar en el formateo\Curso PoloTec\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Benjamin\Desktop\Archivos para guardar en el formateo\Curso PoloTec\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Benjamin\Desktop\Archivos para guardar en el formateo\Curso PoloTec\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Benjamin\Desktop\Archivos para guardar en el formateo\Curso PoloTec\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Benjamin\Desktop\Archivos para guardar en el formateo\Curso PoloTec\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\Benjamin\Desktop\Archivos para guardar en el formateo\Curso PoloTec\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Benjamin\Desktop\Archivos para guardar en el formateo\Curso PoloTec\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\Benjamin\Desktop\Archivos para guardar en el formateo\Curso PoloTec\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Benjamin\Desktop\Archivos para guardar en el formateo\Curso PoloTec\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Benjamin\Desktop\Archivos para guardar en el formateo\Curso PoloTec\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Benjamin\Desktop\Archivos para guardar en el formateo\Curso PoloTec\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Benjamin\Desktop\Archivos para guardar en el formateo\Curso PoloTec\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Benjamin\Desktop\Archivos para guardar en el formateo\Curso PoloTec\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Benjamin\Desktop\Archivos para guardar en el formateo\Curso PoloTec\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Benjamin\Desktop\Archivos para guardar en el formateo\Curso PoloTec\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Benjamin\Desktop\Archivos para guardar en el formateo\Curso PoloTec\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Benjamin\Desktop\Archivos para guardar en el formateo\Curso PoloTec\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Benjamin\Desktop\Archivos para guardar en el formateo\Curso PoloTec\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Benjamin\Desktop\Archivos para guardar en el formateo\Curso PoloTec\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Benjamin\Desktop\Archivos para guardar en el formateo\Curso PoloTec\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Benjamin\Desktop\Archivos para guardar en el formateo\Curso PoloTec\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Benjamin\Desktop\Archivos para guardar en el formateo\Curso PoloTec\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Benjamin\Desktop\Archivos para guardar en el formateo\Curso PoloTec\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Benjamin\Desktop\Archivos para guardar en el formateo\Curso PoloTec\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Benjamin\Desktop\Archivos para guardar en el formateo\Curso PoloTec\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Benjamin\Desktop\Archivos para guardar en el formateo\Curso PoloTec\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Benjamin\Desktop\Archivos para guardar en el formateo\Curso PoloTec\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Benjamin\Desktop\Archivos para guardar en el formateo\Curso PoloTec\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Benjamin\Desktop\Archivos para guardar en el formateo\Curso PoloTec\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Benjamin\Desktop\Archivos para guardar en el formateo\Curso PoloTec\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Benjamin\Desktop\Archivos para guardar en el formateo\Curso PoloTec\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\Benjamin\Desktop\Archivos para guardar en el formateo\Curso PoloTec\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Benjamin\Desktop\Archivos para guardar en el formateo\Curso PoloTec\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Benjamin\Desktop\Archivos para guardar en el formateo\Curso PoloTec\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Benjamin\Desktop\Archivos para guardar en el formateo\Curso PoloTec\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Benjamin\Desktop\Archivos para guardar en el formateo\Curso PoloTec\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Benjamin\Desktop\Archivos para guardar en el formateo\Curso PoloTec\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Benjamin\Desktop\Archivos para guardar en el formateo\Curso PoloTec\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Benjamin\Desktop\Archivos para guardar en el formateo\Curso PoloTec\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\bin\Debug\net6.0\WebEssentials.AspNetCore.OutputCaching.dll
+C:\Users\Benjamin\Desktop\Archivos para guardar en el formateo\Curso PoloTec\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Benjamin\Desktop\Archivos para guardar en el formateo\Curso PoloTec\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Benjamin\Desktop\Archivos para guardar en el formateo\Curso PoloTec\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Benjamin\Desktop\Archivos para guardar en el formateo\Curso PoloTec\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Benjamin\Desktop\Archivos para guardar en el formateo\Curso PoloTec\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Benjamin\Desktop\Archivos para guardar en el formateo\Curso PoloTec\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Benjamin\Desktop\Archivos para guardar en el formateo\Curso PoloTec\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Benjamin\Desktop\Archivos para guardar en el formateo\Curso PoloTec\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Benjamin\Desktop\Archivos para guardar en el formateo\Curso PoloTec\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Benjamin\Desktop\Archivos para guardar en el formateo\Curso PoloTec\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Benjamin\Desktop\Archivos para guardar en el formateo\Curso PoloTec\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Benjamin\Desktop\Archivos para guardar en el formateo\Curso PoloTec\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Benjamin\Desktop\Archivos para guardar en el formateo\Curso PoloTec\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\obj\Debug\net6.0\BingoDefinitivo.csproj.AssemblyReference.cache
+C:\Users\Benjamin\Desktop\Archivos para guardar en el formateo\Curso PoloTec\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\obj\Debug\net6.0\BingoDefinitivo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Benjamin\Desktop\Archivos para guardar en el formateo\Curso PoloTec\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\obj\Debug\net6.0\BingoDefinitivo.AssemblyInfoInputs.cache
+C:\Users\Benjamin\Desktop\Archivos para guardar en el formateo\Curso PoloTec\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\obj\Debug\net6.0\BingoDefinitivo.AssemblyInfo.cs
+C:\Users\Benjamin\Desktop\Archivos para guardar en el formateo\Curso PoloTec\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\obj\Debug\net6.0\BingoDefinitivo.csproj.CoreCompileInputs.cache
+C:\Users\Benjamin\Desktop\Archivos para guardar en el formateo\Curso PoloTec\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\obj\Debug\net6.0\BingoDefinitivo.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Benjamin\Desktop\Archivos para guardar en el formateo\Curso PoloTec\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\obj\Debug\net6.0\BingoDefinitivo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Benjamin\Desktop\Archivos para guardar en el formateo\Curso PoloTec\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\obj\Debug\net6.0\BingoDefinitivo.RazorAssemblyInfo.cache
+C:\Users\Benjamin\Desktop\Archivos para guardar en el formateo\Curso PoloTec\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\obj\Debug\net6.0\BingoDefinitivo.RazorAssemblyInfo.cs
+C:\Users\Benjamin\Desktop\Archivos para guardar en el formateo\Curso PoloTec\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\obj\Debug\net6.0\staticwebassets\msbuild.BingoDefinitivo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Benjamin\Desktop\Archivos para guardar en el formateo\Curso PoloTec\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\obj\Debug\net6.0\staticwebassets\msbuild.build.BingoDefinitivo.props
+C:\Users\Benjamin\Desktop\Archivos para guardar en el formateo\Curso PoloTec\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BingoDefinitivo.props
+C:\Users\Benjamin\Desktop\Archivos para guardar en el formateo\Curso PoloTec\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BingoDefinitivo.props
+C:\Users\Benjamin\Desktop\Archivos para guardar en el formateo\Curso PoloTec\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Benjamin\Desktop\Archivos para guardar en el formateo\Curso PoloTec\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Benjamin\Desktop\Archivos para guardar en el formateo\Curso PoloTec\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Benjamin\Desktop\Archivos para guardar en el formateo\Curso PoloTec\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Benjamin\Desktop\Archivos para guardar en el formateo\Curso PoloTec\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\obj\Debug\net6.0\scopedcss\bundle\BingoDefinitivo.styles.css
+C:\Users\Benjamin\Desktop\Archivos para guardar en el formateo\Curso PoloTec\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\obj\Debug\net6.0\scopedcss\projectbundle\BingoDefinitivo.bundle.scp.css
+C:\Users\Benjamin\Desktop\Archivos para guardar en el formateo\Curso PoloTec\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\obj\Debug\net6.0\BingoDefinitivo.csproj.CopyComplete
+C:\Users\Benjamin\Desktop\Archivos para guardar en el formateo\Curso PoloTec\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\obj\Debug\net6.0\BingoDefinitivo.dll
+C:\Users\Benjamin\Desktop\Archivos para guardar en el formateo\Curso PoloTec\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\obj\Debug\net6.0\refint\BingoDefinitivo.dll
+C:\Users\Benjamin\Desktop\Archivos para guardar en el formateo\Curso PoloTec\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\obj\Debug\net6.0\BingoDefinitivo.pdb
+C:\Users\Benjamin\Desktop\Archivos para guardar en el formateo\Curso PoloTec\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\obj\Debug\net6.0\BingoDefinitivo.genruntimeconfig.cache
+C:\Users\Benjamin\Desktop\Archivos para guardar en el formateo\Curso PoloTec\BingoDefinitivov2.8\BingoDefinitivov2.8\BingoDefinitivo\obj\Debug\net6.0\ref\BingoDefinitivo.dll

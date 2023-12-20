@@ -1,0 +1,25 @@
+﻿@model List<BolilleroViewModel>
+<div class="row">
+    <div class="col-12">
+        <table class="table">
+            <thead>
+                <tr>
+                   <th> Id</th>
+                    <th> Numero De Bolilla</th>
+                    <th> Fecha</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach(var Bolilla in Model)
+                {
+                    <tr>
+                        <td>@Bolilla.Id </td>
+                        <td>@Bolilla.NumeroDeBolilla </td>
+                        <td>@Bolilla.fecha.ToString("dd/MM/yyyy | HH : mm")</td>
+                        
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>

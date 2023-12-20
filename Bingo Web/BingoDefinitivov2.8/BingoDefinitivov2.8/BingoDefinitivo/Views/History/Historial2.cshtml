@@ -1,0 +1,31 @@
+﻿@model List<BingoCViewModel>
+<div class="row">
+    <div class="col-12">
+        <table class="table">
+            <thead>
+                <tr>
+                    <th> Id</th>
+                    <th> Carton 1</th>
+                    <th> Carton 2</th>
+                    <th> Carton 3</th>
+                    <th> Carton 4</th>
+                    <th> Fecha</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var BingoSelect in Model)
+                {
+                    <tr>
+                        <td>@BingoSelect.Id </td>
+                        <td>@BingoSelect.Carton1 </td>
+                        <td>@BingoSelect.Carton2 </td>
+                        <td>@BingoSelect.Carton3 </td>
+                        <td>@BingoSelect.Carton4 </td>
+                        <td>@BingoSelect.fecha.ToString("dd/MM/yyyy | HH : mm")</td>
+
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
