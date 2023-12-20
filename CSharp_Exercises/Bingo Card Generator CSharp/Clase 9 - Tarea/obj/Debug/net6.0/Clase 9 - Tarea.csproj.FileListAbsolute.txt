@@ -1,0 +1,30 @@
+C:\Users\Benjamin\Desktop\Clase 9 - Tarea\Clase 9 - Tarea\bin\Debug\net6.0\Clase 9 - Tarea.exe
+C:\Users\Benjamin\Desktop\Clase 9 - Tarea\Clase 9 - Tarea\bin\Debug\net6.0\Clase 9 - Tarea.deps.json
+C:\Users\Benjamin\Desktop\Clase 9 - Tarea\Clase 9 - Tarea\bin\Debug\net6.0\Clase 9 - Tarea.runtimeconfig.json
+C:\Users\Benjamin\Desktop\Clase 9 - Tarea\Clase 9 - Tarea\bin\Debug\net6.0\Clase 9 - Tarea.dll
+C:\Users\Benjamin\Desktop\Clase 9 - Tarea\Clase 9 - Tarea\bin\Debug\net6.0\Clase 9 - Tarea.pdb
+C:\Users\Benjamin\Desktop\Clase 9 - Tarea\Clase 9 - Tarea\obj\Debug\net6.0\Clase 9 - Tarea.csproj.AssemblyReference.cache
+C:\Users\Benjamin\Desktop\Clase 9 - Tarea\Clase 9 - Tarea\obj\Debug\net6.0\Clase 9 - Tarea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Benjamin\Desktop\Clase 9 - Tarea\Clase 9 - Tarea\obj\Debug\net6.0\Clase 9 - Tarea.AssemblyInfoInputs.cache
+C:\Users\Benjamin\Desktop\Clase 9 - Tarea\Clase 9 - Tarea\obj\Debug\net6.0\Clase 9 - Tarea.AssemblyInfo.cs
+C:\Users\Benjamin\Desktop\Clase 9 - Tarea\Clase 9 - Tarea\obj\Debug\net6.0\Clase 9 - Tarea.csproj.CoreCompileInputs.cache
+C:\Users\Benjamin\Desktop\Clase 9 - Tarea\Clase 9 - Tarea\obj\Debug\net6.0\Clase 9 - Tarea.dll
+C:\Users\Benjamin\Desktop\Clase 9 - Tarea\Clase 9 - Tarea\obj\Debug\net6.0\refint\Clase 9 - Tarea.dll
+C:\Users\Benjamin\Desktop\Clase 9 - Tarea\Clase 9 - Tarea\obj\Debug\net6.0\Clase 9 - Tarea.pdb
+C:\Users\Benjamin\Desktop\Clase 9 - Tarea\Clase 9 - Tarea\obj\Debug\net6.0\Clase 9 - Tarea.genruntimeconfig.cache
+C:\Users\Benjamin\Desktop\Clase 9 - Tarea\Clase 9 - Tarea\obj\Debug\net6.0\ref\Clase 9 - Tarea.dll
+C:\Users\Benjamin\Desktop\Archivos para guardar en el formateo\Curso PoloTec\PoloTecTareas\Clase 9 - Tarea\Clase 9 - Tarea\bin\Debug\net6.0\Clase 9 - Tarea.exe
+C:\Users\Benjamin\Desktop\Archivos para guardar en el formateo\Curso PoloTec\PoloTecTareas\Clase 9 - Tarea\Clase 9 - Tarea\bin\Debug\net6.0\Clase 9 - Tarea.deps.json
+C:\Users\Benjamin\Desktop\Archivos para guardar en el formateo\Curso PoloTec\PoloTecTareas\Clase 9 - Tarea\Clase 9 - Tarea\bin\Debug\net6.0\Clase 9 - Tarea.runtimeconfig.json
+C:\Users\Benjamin\Desktop\Archivos para guardar en el formateo\Curso PoloTec\PoloTecTareas\Clase 9 - Tarea\Clase 9 - Tarea\bin\Debug\net6.0\Clase 9 - Tarea.dll
+C:\Users\Benjamin\Desktop\Archivos para guardar en el formateo\Curso PoloTec\PoloTecTareas\Clase 9 - Tarea\Clase 9 - Tarea\bin\Debug\net6.0\Clase 9 - Tarea.pdb
+C:\Users\Benjamin\Desktop\Archivos para guardar en el formateo\Curso PoloTec\PoloTecTareas\Clase 9 - Tarea\Clase 9 - Tarea\obj\Debug\net6.0\Clase 9 - Tarea.csproj.AssemblyReference.cache
+C:\Users\Benjamin\Desktop\Archivos para guardar en el formateo\Curso PoloTec\PoloTecTareas\Clase 9 - Tarea\Clase 9 - Tarea\obj\Debug\net6.0\Clase 9 - Tarea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Benjamin\Desktop\Archivos para guardar en el formateo\Curso PoloTec\PoloTecTareas\Clase 9 - Tarea\Clase 9 - Tarea\obj\Debug\net6.0\Clase 9 - Tarea.AssemblyInfoInputs.cache
+C:\Users\Benjamin\Desktop\Archivos para guardar en el formateo\Curso PoloTec\PoloTecTareas\Clase 9 - Tarea\Clase 9 - Tarea\obj\Debug\net6.0\Clase 9 - Tarea.AssemblyInfo.cs
+C:\Users\Benjamin\Desktop\Archivos para guardar en el formateo\Curso PoloTec\PoloTecTareas\Clase 9 - Tarea\Clase 9 - Tarea\obj\Debug\net6.0\Clase 9 - Tarea.csproj.CoreCompileInputs.cache
+C:\Users\Benjamin\Desktop\Archivos para guardar en el formateo\Curso PoloTec\PoloTecTareas\Clase 9 - Tarea\Clase 9 - Tarea\obj\Debug\net6.0\Clase 9 - Tarea.dll
+C:\Users\Benjamin\Desktop\Archivos para guardar en el formateo\Curso PoloTec\PoloTecTareas\Clase 9 - Tarea\Clase 9 - Tarea\obj\Debug\net6.0\refint\Clase 9 - Tarea.dll
+C:\Users\Benjamin\Desktop\Archivos para guardar en el formateo\Curso PoloTec\PoloTecTareas\Clase 9 - Tarea\Clase 9 - Tarea\obj\Debug\net6.0\Clase 9 - Tarea.pdb
+C:\Users\Benjamin\Desktop\Archivos para guardar en el formateo\Curso PoloTec\PoloTecTareas\Clase 9 - Tarea\Clase 9 - Tarea\obj\Debug\net6.0\Clase 9 - Tarea.genruntimeconfig.cache
+C:\Users\Benjamin\Desktop\Archivos para guardar en el formateo\Curso PoloTec\PoloTecTareas\Clase 9 - Tarea\Clase 9 - Tarea\obj\Debug\net6.0\ref\Clase 9 - Tarea.dll
